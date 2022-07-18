@@ -16,7 +16,7 @@ var swiper = new Swiper(".home-slider", {
     loop: true,
     autoplay: {
         disableOnInteraction: false,
-        delay: 20000,
+        delay: 5000
     },
         navigation: {
           nextEl: ".swiper-button-next",

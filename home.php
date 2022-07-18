@@ -130,6 +130,47 @@
 
     <!-- services sections ends -->
 
+    <!-- home about section starts  -->
+
+    <section class="home-about">
+
+        <div class="image">
+            <img src="images/about-img.jpg" alt="">
+        </div>
+
+        <div class="content">
+            <h3>about us</h3>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus, doloribus quod, dolorem soluta officia quis quidem, nihil rem dolorum vero incidunt ullam modi. Aut adipisci animi iste suscipit, temporibus natus.</p>
+            <a href="about.php" class="btn">read more</a>
+        </div>
+
+
+    </section>
+
+    <!-- home about section ends  -->
+
+    <!-- home package section starts  -->
+
+    <section class="home-packages">
+
+        <h1 class="heading"> our packages </h1>
+
+        <div class="box-container">
+            <div class="image">
+                <img src="images/img-1.jpg" alt="">
+            </div>
+
+            <div class="content">
+                <h3>adventure & tourism</h3>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam, architecto?</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+        </div>
+
+    </section>
+
+    <!-- home package section ends  -->
+
 
 
 
