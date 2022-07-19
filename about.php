@@ -45,6 +45,39 @@
     </div>
 
 
+    <!-- about section starts  -->
+
+    <section class="about">
+
+        <div class="image">
+            <img src="images/about-img.jpg" alt="">
+        </div>
+
+        <div class="content">
+            <h3>why choose us ?</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae amet, animi natus ullam vel consequatur suscipit itaque facere praesentium quasi, velit excepturi totam, labore esse? Dignissimos, tempore numquam. Corporis, repellat?</p>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique ratione magnam odio illum, velit nemo aspernatur odit quos expedita quod!</p>
+
+            <div class="icons-container">
+                <div class="icons">
+                    <i class="fa fa-map"></i>
+                    <span>top destination</span>
+                </div>
+                <div class="icons">
+                    <i class="fa fa-hand-holding-usd"></i>
+                    <span>affordable price</span>
+                </div>
+                <div class="icons">
+                    <i class="fa fa-headset"></i>
+                    <span>24/7 guide service</span>
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+    <!-- about section ends  -->
+
 
 
 

@@ -153,23 +153,67 @@
 
     <section class="home-packages">
 
-        <h1 class="heading"> our packages </h1>
+        <h1 class="heading-title"> our packages </h1>
 
         <div class="box-container">
-            <div class="image">
-                <img src="images/img-1.jpg" alt="">
+
+            <div class="box">
+                <div class="image">
+                    <img src="images/img-1.jpg" alt="">
+                </div>
+
+                <div class="content">
+                    <h3>adventure & tourism</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam, architecto?</p>
+                    <a href="book.php" class="btn">book now</a>
+                </div>
             </div>
 
-            <div class="content">
-                <h3>adventure & tourism</h3>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam, architecto?</p>
-                <a href="book.php" class="btn">book now</a>
+            <div class="box">
+                <div class="image">
+                    <img src="images/img-2.jpg" alt="">
+                </div>
+
+                <div class="content">
+                    <h3>adventure & tourism</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam, architecto?</p>
+                    <a href="book.php" class="btn">book now</a>
+                </div>
             </div>
+
+            <div class="box">
+                <div class="image">
+                    <img src="images/img-3.jpg" alt="">
+                </div>
+
+                <div class="content">
+                    <h3>adventure & tourism</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam, architecto?</p>
+                    <a href="book.php" class="btn">book now</a>
+                </div>
+            </div>
+
+
         </div>
+
+        <div class="load-more"> <a href="package.php" class="btn">load more</a> </div>
 
     </section>
 
     <!-- home package section ends  -->
+
+
+    <!-- home offer section starts  -->
+
+    <section class="home-offer">
+        <div class="content">
+            <h3>upto 50% off</h3>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laudantium explicabo id alias culpa sed, et sint expedita hic ea reiciendis?</p>
+            <a href="book.php" class="btn">book now</a>
+        </div>
+    </section>
+
+    <!-- home offer section ends  -->
 
 
 
